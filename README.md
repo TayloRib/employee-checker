@@ -4,7 +4,7 @@
 
 ## Description
 
-A node inquirer app that uses sql to allows the user to create and store employee information in tables
+A node inquirer app that uses sql to allow the user to create and store employee information in tables
 
 
 ## Installation
